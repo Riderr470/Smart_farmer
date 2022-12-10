@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Farmer", "Smart Farmer\Smart Farmer.csproj", "{7F158809-47C6-46F3-AB76-FC486847BE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{67C1EE03-A132-41AE-8497-4B1E189FBDA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FC633DD6-F77B-4558-A401-781EFD1DCF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F158809-47C6-46F3-AB76-FC486847BE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F158809-47C6-46F3-AB76-FC486847BE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F158809-47C6-46F3-AB76-FC486847BE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F158809-47C6-46F3-AB76-FC486847BE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C1EE03-A132-41AE-8497-4B1E189FBDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C1EE03-A132-41AE-8497-4B1E189FBDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C1EE03-A132-41AE-8497-4B1E189FBDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C1EE03-A132-41AE-8497-4B1E189FBDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC633DD6-F77B-4558-A401-781EFD1DCF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC633DD6-F77B-4558-A401-781EFD1DCF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC633DD6-F77B-4558-A401-781EFD1DCF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC633DD6-F77B-4558-A401-781EFD1DCF51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3789C9CF-EB37-4C75-8E1C-7DEFF5C14132}
+	EndGlobalSection
+EndGlobal
